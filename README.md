@@ -50,7 +50,7 @@ The repository is benefit a lot from [LBAM](https://github.com/Vious/LBAM_Pytorc
 If you find our method or dataset useful for your reserach, please cite:
 ```
 @ARTICLE{Erase,
-  author     ={Liu, Chongyu and Liu, Yuliang and Jin, lianwen† and Zhang, Shuaitao and Luo, Canjie and Wang, Yongpan},
+  author     ={Liu, Chongyu and Liu, Yuliang and Jin, lianwen and Zhang, Shuaitao and Luo, Canjie and Wang, Yongpan},
   journal    ={IEEE Transactions on Image Processing},
   title      ={EraseNet: End-to-End Text Removal in the Wild},
   year       ={2020},
