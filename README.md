@@ -12,7 +12,7 @@ The data preparation can be refer to ./examples/. You can download our datatset 
 Anaconda is recommended to establish a virtual environment to run our code. My environment can be refered as follows:
 ```
 python = 3.7
-pytroch = 1.3.1
+pytorch = 1.3.1
 torchvision = 0.4.2
 ```
 
