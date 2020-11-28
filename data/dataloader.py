@@ -56,8 +56,8 @@ class ErasingData(Dataset):
         if self.training:
         # ### for data augmentation
             all_input = [img, mask, gt]
-            all_img = random_horizontal_flip(all_input)   
-            all_img = random_rotate(all_img)
+            all_input = random_horizontal_flip(all_input)   
+            all_input = random_rotate(all_input)
             img = all_input[0]
             mask = all_input[1]
             gt = all_input[2]
