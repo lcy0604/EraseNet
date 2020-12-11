@@ -67,7 +67,7 @@ class LossWithGAN_STE(nn.Module):
         holeLoss = 10 * self.l1((1 - mask) * output, (1 - mask) * gt)
         validAreaLoss = 2*self.l1(mask * output, mask * gt)  
 
-        mask_loss = dice_loss(1-mask, mm)
+        mask_loss = dice_loss(mm, 1-mask)
         ### MSR loss ###
         masks_a = F.interpolate(mask, scale_factor=0.25)
         masks_b = F.interpolate(mask, scale_factor=0.5)
