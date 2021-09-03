@@ -5,7 +5,7 @@ This repository is the implementation of EraseNet, a neural network for end-to-e
 
 ## Data preparation
 
-The data preparation can be refer to ./examples/. You can download our datatset at [SCUT-EnsText](https://github.com/HCIILAB/SCUT-EnsText) or synthetic dataset [SCUT-Syn](https://github.com/HCIILAB/Scene-Text-Removal) for training and testing.
+The data preparation can be refer to ./examples/. You can download our datatset at [SCUT-EnsText](https://github.com/HCIILAB/SCUT-EnsText) or synthetic dataset [SCUT-Syn](https://github.com/HCIILAB/Scene-Text-Removal) for training and testing. SCUT-EnsText needs decompression password, you can send me at [liuchongyu1996@gmail.com](mailto:liuchongyu1996@gmail.com) for it.
 
 ## Environment
 
