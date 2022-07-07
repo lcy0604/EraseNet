@@ -44,7 +44,7 @@ To evaluate the results:
 python evaluatuion.py --target_path 'results_path' --gt_path 'labels_path'
 ```
 
-Demo
+## Demo
 
 We provide the retrain model for inference. [Model Link](https://drive.google.com/file/d/1scrtQ2GFvKjjoGEqbKxpOMn37mJmXsFd/view)
 
