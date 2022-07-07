@@ -18,6 +18,10 @@ pytorch = 1.3.1
 torchvision = 0.4.2
 ```
 
+## Demo
+
+We provide our retrain model for quick inference. [Model Link](https://drive.google.com/file/d/1scrtQ2GFvKjjoGEqbKxpOMn37mJmXsFd/view)
+
 ## Training
 
 Once the data is well prepared, you can begin training:
@@ -44,9 +48,7 @@ To evaluate the results:
 python evaluatuion.py --target_path 'results_path' --gt_path 'labels_path'
 ```
 
-## Demo
 
-We provide our retrain model for quick inference. [Model Link](https://drive.google.com/file/d/1scrtQ2GFvKjjoGEqbKxpOMn37mJmXsFd/view)
 
 ## Acknowledge
 
