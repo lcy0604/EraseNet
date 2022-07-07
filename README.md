@@ -20,7 +20,7 @@ torchvision = 0.4.2
 
 ## Demo
 
-We provide our retrain model for quick inference. [Model Link](https://drive.google.com/file/d/1scrtQ2GFvKjjoGEqbKxpOMn37mJmXsFd/view)
+We provide our retrain model for quick inference for SCUT-EnsText. [Model Link](https://drive.google.com/file/d/1scrtQ2GFvKjjoGEqbKxpOMn37mJmXsFd/view)
 
 ## Training
 
