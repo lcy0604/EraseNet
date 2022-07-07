@@ -44,6 +44,10 @@ To evaluate the results:
 python evaluatuion.py --target_path 'results_path' --gt_path 'labels_path'
 ```
 
+Demo
+
+We provide the retrain model for inference. [Model Link](https://drive.google.com/file/d/1scrtQ2GFvKjjoGEqbKxpOMn37mJmXsFd/view)
+
 ## Acknowledge
 
 The repository is benefit a lot from [LBAM](https://github.com/Vious/LBAM_Pytorch) and [GatedConv](https://github.com/avalonstrel/GatedConvolution_pytorch). Thanks a lot for their excellent work.
